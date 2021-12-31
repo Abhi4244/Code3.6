@@ -2,8 +2,9 @@
   display: flex;
 align-content: center;
   background-color: cyan;
-  height: 500px;
+  height: 600px;
   flex-wrap: wrap;
+   width: 800px;
 }
 .flex-container > div {
   background-color:beige;
@@ -17,8 +18,9 @@ align-content: center;
   display: flex;
   align-content:  flex-start;
   background-color: cyan;
-  height: 500px;
+  height: 600px;
   flex-wrap: wrap;
+   width: 800px;
 }
 .flex-container1 > div {
   background-color:beige;
@@ -32,8 +34,9 @@ align-content: center;
   display: flex;
   align-content:  flex-end;
   background-color: cyan;
-  height: 500px;
+  height: 600px;
   flex-wrap: wrap;
+   width: 800px;
 }
 .flex-container2 > div {
   background-color:beige;
@@ -47,8 +50,9 @@ align-content: center;
   display: flex;
  align-content:  stretch;
   background-color: cyan;
-  height: 500px;
+  height: 600px;
   flex-wrap: wrap;
+   width: 800px;
 }
 .flex-container3 > div {
   background-color:beige;
@@ -62,9 +66,9 @@ align-content: center;
   display: flex;
  align-content:  space-around;
   background-color: cyan;
-  height: 500px;
+  height: 600px;
   flex-wrap: wrap;
-  width: 1000px;
+  width: 800px;
 }
 .flex-container4 > div {
   background-color:beige;
@@ -79,9 +83,9 @@ align-content: center;
   display: flex;
  align-content:  space-between;
   background-color: cyan;
-  height:500px;
+  height:600px;
   flex-wrap: wrap;
-  width: 1000px;
+  width: 800px;
 }
 .flex-container5 > div {
   background-color:beige;
